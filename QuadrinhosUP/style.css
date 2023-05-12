@@ -1,0 +1,36 @@
+body {background-image: url(photo-1601645191163-3fc0d5d64e35.avif);}
+header {
+background-color:rgb(0, 0, 0);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 15vh;
+width: 100%;
+font-weight: bold;
+color:rgb(255, 255, 255);
+font-size: 50px;}
+* {margin: 0;
+   border: 0;}
+.img-1 {width: 500px;}
+.img-2 {width: 500px;}
+.promoção {display: flex;
+justify-content: center;}
+.promoção img {margin: 80px;}
+.img-3 {width: 500px;}
+.img-4 {width: 500px;}
+.promoção2 {display: flex;
+justify-content: center;}
+.promoção2 img {margin: 80px;}
+.txt-1 {color: aliceblue;}
+a {text-decoration: none;}
+.txt-1 {padding: 12px 40px;
+    width: 218px;
+background-color: blue;}
+.txt-2 {color: aliceblue;}
+a {text-decoration: none;}
+.txt-2 {padding: 12px 40px;
+width: 218px;
+background-color: blue;}
+.coleção {display: flex;
+justify-content: center;}
+.coleção h1 {margin:0 180px;}

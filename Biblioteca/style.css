@@ -1,0 +1,25 @@
+body{background-color: rgb(157, 100, 112); /*Muda a cor do fundo*/}
+
+h1{color: indigo; /*Cor do texto*/
+text-align: center; /*Centraliza o texto*/}
+
+p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /*Troca fonte do texto*/
+text-align: justify; /*Deixa o texto justificado*/}
+
+.texto-1 { /*Uso . para chamar uma classe*/ color: rgb(34, 139, 34);}
+
+#Titulo { /*Uso # para chamar um ID*/ color: blue;}
+
+a {text-decoration: none; /*Remove a formatação padrão da tag*/
+font-size: 50px; /*Muda o tamanho do texto*/
+background-color: red;
+border-radius: 7px; /*Arredonda a borda*/
+border-color: black; /*Cor da borda*/
+border-style: solid; /*Estilo da borda*/
+border-width: 3px; /*Largura da borda*/
+padding: 5px 20px;}
+
+img {width: 200px;
+height: auto;}
+
+div {text-align: center;}

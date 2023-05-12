@@ -1,0 +1,55 @@
+body {background-color: #94A088;}
+body {background-size: cover;}
+a{
+text-decoration: none;
+font-size: 28px;
+padding: 0 20px;
+color: aliceblue;}
+.img-1{width: 400px;}
+.txt-1{margin-left: 500px;
+color: aliceblue;
+font-size: 50px;}
+.img-2 {width: 500px;}
+.img-3 {width: 500px;}
+.img-4 {width: 500px;}
+.txt-2 {color: #EEF2E9;}
+.txt-2 {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.txt-2 {font-size: 27px;}
+.img-5 {width: 500px;}
+.img-6 {width: 500px;}
+.img-7 {width: 460px;}
+.txt-3 {color: #EEF2E9;}
+.txt-4 {color: #EEF2E9;}
+.txt-3 {font-size: 40px;}
+.txt-5 {color: #EEF2E9;}
+.txt-6 {color: #EEF2E9;}
+.txt-5 {font-size: 40px;}
+.txt-7 {color: #EEF2E9;}
+.img-8 {width: 450px;}
+.img-9 {width: 400px;}
+.img-10 {width: 500px;}
+.img-11 {width: 450px;}
+.txt-8 {color: #EEF2E9;}
+.txt-9 {color: #EEF2E9;}
+.img-12 {width: 450px;}
+.img-13 {width: 400px;}
+.txt-10 {color: #EEF2E9;}
+.img-14 {width: 350px;}
+.img-15 {width: 400px;}
+.txt-11 {font-size: 40px;}
+.txt-11 {color: #EEF2E9;}
+.txt-12 {color: #EEF2E9;}
+.txt-13 {color: #EEF2E9;}
+.txt-14 {color: #EEF2E9;}
+.txt-12 {font-size: 35px;}
+.txt-13 {font-size: 35px;}
+.txt-14 {font-size: 35px;}
+.img-16 {width: 150px;}
+.img-17 {width: 150px;}
+.img-18 {width: 150px;}
+.rede {display: flex;
+    justify-content: center;}
+.rede h2 {margin: 80px;}
+.txt-15 {color: #EEF2E9;}
+.txt-16 {color: #EEF2E9;}
+.txt-16 {font: 40px;}
